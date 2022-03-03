@@ -1,1 +1,3 @@
-CrazeRyuki.github.io
+CrazeRyzen.github.io
+
+
